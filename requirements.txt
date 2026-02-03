@@ -1,0 +1,2 @@
+requests>=2.31.0
+pygame>=2.5.0; python_version >= "3.8"  # 可选：音乐支持
